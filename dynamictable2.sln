@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "dynamictable2", "dynamictable2\dynamictable2.esproj", "{D5F17950-B932-4D11-B7EF-E50EDEE244A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5F17950-B932-4D11-B7EF-E50EDEE244A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5F17950-B932-4D11-B7EF-E50EDEE244A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5F17950-B932-4D11-B7EF-E50EDEE244A4}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{D5F17950-B932-4D11-B7EF-E50EDEE244A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5F17950-B932-4D11-B7EF-E50EDEE244A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5F17950-B932-4D11-B7EF-E50EDEE244A4}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F45C5C81-A220-455F-A8F5-A22F9A6F173C}
+	EndGlobalSection
+EndGlobal
